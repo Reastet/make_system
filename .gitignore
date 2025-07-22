@@ -1,0 +1,8 @@
+build/
+elfloader/
+.vscode/
+freetype/
+libpng/
+zlib/
+*.ttf
+*.png
